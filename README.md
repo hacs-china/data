@@ -1,0 +1,2 @@
+# data
+HACS data repository
