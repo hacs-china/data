@@ -1,2 +1,1 @@
-# data
-HACS data repository
+# HACS 数据源
